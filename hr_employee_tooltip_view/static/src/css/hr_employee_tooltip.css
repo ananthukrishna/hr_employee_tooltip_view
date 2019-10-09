@@ -1,0 +1,95 @@
+.image_mouse_over{
+    cursor: pointer !important;
+}
+
+.margin-zero{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.mt-10 {
+    margin-top: 10px !important;
+}
+.text-center{
+    text-align: center !important;
+}
+.text-left{
+    text-align: left !important;
+}
+.tooltip_container{
+    width: 408px !important;
+    height: auto !important;
+    border: solid 1px #cccccc;
+    padding-top: 15px !important;
+    padding: 15px !important;
+    margin: 20px !important;
+    background-color: whitesmoke;
+}
+.tooltip_name{
+    color: #6a6a6a;
+    font-size: 28px !important;
+    font-weight: bold;
+    width: 100%;
+}
+.dep_tit{
+    margin-top: 2px;
+    width: 100%;
+}
+.department{
+    color: #6a6a6a;
+    font-size: 14px !important;
+}
+.title{
+    color: #fe7800;
+    font-size: 14px !important;
+}
+.img_avatar{
+    border-radius: 50%;
+}
+.tooltip_head{
+    color: #6a6a6a;
+    font-size: 14px !important;
+    font-weight: bold;
+}
+.tooltip_text{
+    color: #fe7800;
+    font-size: 12px !important;
+}
+.tooltip_icon_head{
+    color: #6a6a6a;
+    font-size: 12px !important;
+    font-weight: bold;   
+    line-height: 20px; 
+}
+.tooltip_icon_ninebox{
+    text-align: left;
+}
+.tooltip_icon_gender{
+    height: 45px !important;
+    text-align: center;
+    line-height: 45px !important;
+}
+.tooltip_icon_flag{
+    height: 30px !important;
+    width: 60px !important;
+    text-align: center !important;
+    margin-top: 10px !important;
+    margin-left: 2px;
+}
+.c_flag{
+    height: 30px !important;
+    width: 60px !important;
+}
+.tooltip_icon_number_o{
+    line-height: 45px !important;
+    font-size: 30px !important;
+    font-weight: bold;   
+    text-align: center;
+    color: #fe7800;
+}
+.tooltip_icon_number_g{
+    line-height: 45px !important;
+    font-size: 30px !important;
+    font-weight: bold;   
+    text-align: center;
+    color: #27ae60;
+}

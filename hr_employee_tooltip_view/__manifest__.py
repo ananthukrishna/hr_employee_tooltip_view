@@ -26,7 +26,7 @@
     'summary': 'HR Employee Tooltip View',
     'version': '1.0',
     'description': """show tooltip view on hr employee photo while mouseover""",
-    'author': 'Ananthu Krishna',
+    'author': 'CodersFort',
     'maintainer': 'Ananthu Krishna',
     'website': 'http://www.codersfort.com',
     "images": ["images/Banner.png"],
